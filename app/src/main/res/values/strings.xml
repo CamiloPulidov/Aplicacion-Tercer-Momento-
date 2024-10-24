@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">actividadProg</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="imagen_flecha">imagen flecha</string>
+    <string name="dos_mitades">Dos mitades</string>
+    <string name="boton_1">boton 1</string>
+</resources>
